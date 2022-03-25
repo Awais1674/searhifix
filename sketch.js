@@ -1,4 +1,4 @@
-let searchUrl = 'http://en.wikipedia.org/w/api.php?action=opensearch&format=json&search='
+let searchUrl = 'https://en.wikipedia.org/w/api.php?action=opensearch&format=json&search='
 let apiLink = "https://en.wikipedia.org/w/api.php?format=json&action=query&origin=*&prop=extracts&exintro&explaintext&redirects=1&titles="
 
 
